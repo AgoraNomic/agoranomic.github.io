@@ -163,7 +163,6 @@ table, td, th {
 
 table {
   margin: auto;
-  padding-right: 14em;
 }
 
 table tr {
@@ -227,8 +226,5 @@ blockquote, pre {
   .coat-of-arms {
     height:64px;
     width:64px;
-  }
-  table {
-    padding: 1em;
   }
 }
