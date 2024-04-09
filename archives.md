@@ -45,6 +45,7 @@ td {
 
 <ul>
     <li><a href="http://www.fysh.org/~zefram/agora/">Zefram's archives</a> contain old rules, proposals, and mailing list archives.</li>
+    <li><a href="https://listserver.tue.nl/pipermail/agora/">The archives of the Tue mailing list, an older backup list that is no longer used.</a></li>
     <li>The <a href="http://zenith.homelinux.net/awj.php">Agoran Weekly Journal</a> summarises events from 1997 to 2007, and may be updated in the future.</li>
     <li>Murphy's site also contains a <a href="http://zenith.homelinux.net/agora_acronyms.php">list of acronyms</a> used in agora and a <a href="http://zenith.homelinux.net/agora_winners.php">list of wins</a>.</li>
     <li>Andre has a <a href="http://web.archive.org/web/20130115221259/http://www.win.tue.nl/~engels/stare.txt">list of old CFJs</a>.</li>

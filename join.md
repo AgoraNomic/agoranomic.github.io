@@ -7,24 +7,24 @@ layout: default
 <h1>Joining Agora</h1>
 <div class="col-content" style="padding-left:3%; padding-right:3%">
 <h2>Joining</h2>
-<p>Agora Nomic is an email based game. That means that all play and announcements happen via email. To participate, players subscribe to the mailing lists. Once you are subscribed, you will start receiving emails as they are sent, and you will be able to send emails to other players by sending them to the mailing lists. If you want to see emails from before you subscribed, you will need to look at the archives (see the links below).</p>
+<h3> The Mailing Lists</h3>
+<p>Agora Nomic is played via email. To join, you sign up for the mailing lists. When anyone sends an email to one of the lists, everyone signed up receives it.</p>
 
-<p>The first step to joining is to subscribe to these mailing lists. Because of the high volume of messages, it is recommended that you either make an email account just for Agora, or set up filters on your incoming email to redirect Agora messages to a folder instead of your inbox. How you set up filters will depend on your email provider, check their documentation.</p>
+<p>Agora has 4 email lists. These collectively make "the fora" as most players call it. Three of these lists are "public" forums, that's where the gameplay actually happens. The fourth one is a "discussion" forum, where people talk about the game.</p>
 
-<p>Currently there are 5 email lists to subscribe to, and it is necessary to subscribe to all five to ensure you receive all game messages. Three of them are the primary lists, and two of them are backups. When subscribing, <em>do not choose "digest"</em>; this option makes the game essentially unplayable for you. Here are the subscription links, remember to subscribe to each one:<p>
+<p>The three public fora are <a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-official">Agora-Official</a>, <a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business">Agora-Business</a>, and <a href="https://agoranomic.groups.io/g/main/join">Gio</a>. Business is where most gameplay happens, and where you will send all of your game messages at first. Official is where Reports are sent, which are summaries of what's currently happening in the game. Gio is a backup list, used when the other two stop working (which happens sometimes). Rarely, players might send messages to Gio as a way to "sneak" past people that might not be subscribed to it.</p>
 
-<ul>
-    <li><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-official">Agora-Official</a></li>
-    <li><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-business">Agora-Business</a></li>
-    <li><a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion">Agora-Discussion</a></li>
-    <li><a href="https://agoranomic.groups.io/g/main/join">Gio</a></li>
-</ul>
+<p>The discussion forum is <a href="http://www.agoranomic.org/cgi-bin/mailman/listinfo/agora-discussion">Agora-Discussion</a>. Messages sent to this forum are never game actions, so people usually use it to discuss the game. By default when you reply to a message sent to a public forum, your reply will be sent to Agora-Discussion. If you want to take an action, you need to change the "To" to Agora-Business.</p>
 
-<p>After submitting a subscription to each one, you should receive an email asking you to confirm your subscription. For Gio there may also be a delay because subscriptions must be confirmed by a moderator.<p>
+<p>Because many emails might be sent in a single day, you should consider either making an email account just for Agora, or setting up filters to send all Agora messages to a folder. Your email provider will have instructions on how to do that. For example, <a href="https://support.google.com/mail/answer/6579?hl=en">here's gmail's filter instructions</a>.</p>
 
-<p>Agora-Official is generally only used by Officers to send Reports about the state of the game. Agora-Business is what is used for 99% of game actions, including registering. Gio is a backup, usually only used if the others are down; sometimes players try to sneak actions through on them, to see if anyone is paying attention.</p>
+<p>Once you've subscribed to each mailing list, and confirmed your subscriptions in your email, you will start receving messages as they are sent. You will also now be able to send messages. Now it's time to register.</p>
 
-<p>Once you have confirmed your subscription to all four mailing lists, and configured your email as you'd like, you are free to join and start playing. To join, send a message to agora-business@agoranomic.org. In the message, indicate your intent to register and your preferred name. As soon as that message is received, you're a player and can immediately start playing.</p>
+<h3>Registering</h3>
+
+<p>Registering is a special action in Agora, to make it as easy as possible. A registration email need only indicate that you wish to join; you should also indicate what name you'd like to use. Names are changeable in Agora whenever you want. A straight-forward registration might say something like:</p>
+
+<pre>I register for Agora. My name is nix.</pre>
 
 <h2>After Joining: Tips & Tricks</h2>
 

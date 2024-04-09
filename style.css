@@ -103,6 +103,8 @@ embed {
 .container {
   position:relative;
   width: 100%;
+  max-width: 72ch;
+  margin: auto;
 }
 
 .content {
@@ -110,7 +112,7 @@ embed {
   padding-right: 14em;
 }
 
-p {
+p, ul {
   max-width: 72ch;
   margin: auto;
   margin-bottom: 1em;
