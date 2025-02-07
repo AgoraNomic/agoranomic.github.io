@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: puremd
 ---
 
 ## First Notes
