@@ -3,7 +3,7 @@ title: Archives
 layout: puremd
 ---
 
-Whether you're a new player or an experienced Agoran you may be looking to access some of the archives and other info on the game. I will try to keep this page up-to-date, but all of this is maintained by volunteers and any link may become defunct. Also, Agora has existed across multiple platforms since 1992 and there are unfortunately gaps in our records, especially in the early years. If you're aware of something missing here, please let me know via the fora or chat.
+Whether you're a new player or an experience Agoran, you'd likely be looking to learn about the history of the game. This page consists of a collection of all known archives. As Agora has existed across multiple platforms since 1992, there are unfortunately gaps in our records. If you're aware of something missing, please let me know via the fora or chat.
 
 ## Current Mailing Lists Archives
 
@@ -38,13 +38,13 @@ td {
 
 ## Historical Agora Content
 
-[Nix's archive](<https://cloud.nullarch.com/d/d437c7b3b0bd40239412/>) is currently maintained, though the mailing list archives may be a month or two out of sync at any time.
 
 The below archives are historical. They are not maintained, and may not even exist anymore.
 
+- [Nix's archive](<https://cloud.nullarch.com/d/d437c7b3b0bd40239412/>) contains most content through to the end of 2023.
 - [Zefram's archives](<https://www.fysh.org/~zefram/agora/>) contain old rules, proposals, and mailing list archives.
 - [The archives of the Tue mailing list, an older backup list that is no longer used.](<https://listserver.tue.nl/pipermail/agora/>)
-- The [Agoran Weekly Journal](<https://zenith.homelinux.net/awj.php>) summarises events from 1997 to 2007, and may be updated in the future.
+- The [Agoran Weekly Journal](<https://zenith.homelinux.net/awj.php>) summarizes events from 1997 to 2007, and may be updated in the future.
 - Murphy's site also contains a [list of acronyms](<https://zenith.homelinux.net/agora_acronyms.php>) used in Agora and a [list of wins](<https://zenith.homelinux.net/agora_winners.php>).
 - Andre has a [list of old CFJs](<https://web.archive.org/web/20130115221259/http://www.win.tue.nl/~engels/stare.txt>).
 - [omd's CFJ database](<https://cfj.qoid.us>) displays more recent CFJs and their results.
