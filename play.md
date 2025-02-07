@@ -11,7 +11,7 @@ Please also keep in mind that this list is non-exhaustive, and only the rules ca
 
 ## Things to Do Right Away
 
-**Give Yourself a Welcome Package** by simply saying (in Agora-Business) "I award myself a Welcome Package." This gives some starting items to new players. At the time of writing, it includes a "stamp" and some "hooves". Read the Ways to Win section for an idea of what to do with those. See Rule 2499 for more details.
+**Give Yourself a Welcome Package** by simply saying (in Agora-Business) "I award myself a Welcome Package." This gives some starting items to new players. At the time of writing, it includes a "stamp" and some "spendies". Keep reading to see what to do with these. See Rule 2499 for more details on Welcome Packages.
 
 ## Things to Do Regularly
 
@@ -25,9 +25,11 @@ Please also keep in mind that this list is non-exhaustive, and only the rules ca
 
 There are usually several ways to win Agora at once. Winning does not stop or interrupt overall play. The winner gets awarded the Champion Title, may become Speaker of Agora (a largely honorary role), and play continues.
 
-**Achieving a high score.** This is a competitive type of win. The first player to have over 100 points can win by announcement, which also sets eir own score to 0 and sets everyone else's scores to half eir current value. Points are earned from successful proposals, winning horse races, cashing in Stamps, and more. Score is defined in Rule 2656, but search the rules for all the ways to gain points.</p>
+**Achieve a high score.** This is a competitive type of win. The first player to have over 100 points can win by announcement, which also sets eir own score to 0 and sets everyone else's scores to half eir current value. Points are gained by paying spendies, cashing in stamps, or winning contests. Score is defined in Rule 2656, but search the rules for all the ways to gain points.</p>
 
-**Collecting ribbons.** This is a long-term noncompetitive goal, often spanning multiple years. Ribbons are special awards for meeting certain conditions, and collecting all the different ribbons allows you to _Raise a Banner_, which trades out your collection for a win! Ribbons can be gained from things as simple as getting your proposal adopted and things as complex as writing a Thesis. The full list is in Rule 2438, and you can see current ribbon holdings in the Tailor's report.
+**Gather everyone's stamps.** Rather, gather as many unique stamps as there are active players. By spending all of them, you get to earn a win! This tends to be a long-term semi-competitive goal, spanning a couple years depending on your determination.
+
+**Collect all the ribbons.** This is a long-term noncompetitive goal, often spanning multiple years. Ribbons are special awards for meeting certain conditions, and collecting all the different ribbons allows you to _Raise a Banner_, which trades out your collection for a win! Ribbons can be gained from things as simple as getting your proposal adopted and things as complex as writing a Thesis. The full list is in Rule 2438, and you can see current ribbon holdings in the Tailor's report.
 
 ## Things to Do When You're More Comfortable
 
