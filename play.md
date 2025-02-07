@@ -6,7 +6,9 @@ layout: puremd
 
 This page is for people once they've become players. To become a player, look at [the joining page](join).
 
-Please keep in mind that by its nature, Agora is always changing and this page may be somewhat outdated. If it is, please nag nix to fix it. Also keep in mind that there are likely many many more things you can do in Agora, and only the rules will provide a full list. This is simply meant to get you started. 
+Please keep in mind that Agora is always changing, and this page may become outdated. If you notice anything that doesn't seem right, please contact the Webmastor to update it.
+
+Please also keep in mind that this list is non-exhaustive, and only the rules can provide a full list. This is simply some ways to get your foot in the door.
 
 ## Things to Do Right Away
 
