@@ -1,8 +1,7 @@
 ---
+title: How To Play
 layout: puremd
 ---
-
-## First Notes
 
 This page is for people once they've become players. To become a player, look at [the joining page](join).
 
