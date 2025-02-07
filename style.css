@@ -76,11 +76,11 @@ body {
   font-size: 16px;
   color: #B31837;
   margin: 0 auto;
-  text-align: center;
 }
 
 .rule101 pre {
   background: none;
+  text-align: center;
 }
 
 h1 {
