@@ -1,6 +1,6 @@
 ---
 title: Archives
-layout: default
+layout: puremd
 ---
 
 Whether you're a new player or an experienced Agoran you may be looking to access some of the archives and other info on the game. I will try to keep this page up-to-date, but all of this is maintained by volunteers and any link may become defunct. Also, Agora has existed across multiple platforms since 1992 and there are unfortunately gaps in our records, especially in the early years. If you're aware of something missing here, please let me know via the fora or chat.
