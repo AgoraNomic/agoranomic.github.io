@@ -1,12 +1,10 @@
 ---
-title: play
 layout: default
 ---
 
-<div id="Welcome" class="content">
-<div class="col-content" style="padding-left:3%; padding-right:3%">
-<h2>First Notes</h2>
-<p>This page is for people once they've become players. To become a player, look at <a class="join" href="join.html">the joining page</a>. </p>
+## First Notes
+
+This page is for people once they've become players. To become a player, look at <a class="join" href="join.html">the joining page</a>.
 
 <p>Please keep in mind that by its nature, Agora is always changing and this page may be somewhat outdated. If it is, please nag nix to fix it. Also keep in mind that there are likely many many more things you can do in Agora, and only the rules will provide a full list. This is simply meant to get you started.</p> 
 
@@ -37,5 +35,3 @@ layout: default
 <p><b>Submit Proposals</b> - When you're ready and you have an idea, submit your own proposals! This is how we make the game into what we want it to be. Some ideas for proposals may include fixing broken things, clarifying things, improving the balance of game mechanics, adding or removing mechanics, or trying to sneak loopholes into the rules. Be careful with the last one, if it's all you do people will be suspcious of all of your actions. Ask for advice on how to make your proposals more solid. When you're ready, send your proposal to agora-business with the statement "I submit the following proposal: [proposal]".</p>
 
 <p><b>Run for Office</b> - Agora is maintained by Officers, who keep the game information up to date and perform regular game actions to keep everything running. Officers often get small benefits for their work, but are largely doing so out of love of the game and wanting to share the workload. If you see an unfilled spot, or someone struggling to fill multiple offices at once, don't be afraid to jump in.</p>
-</div>
-</div>

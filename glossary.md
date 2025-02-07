@@ -1,24 +1,22 @@
 ---
-title: glossary
 layout: default
 ---
 
-<div id="Welcome" class="content">
-<div class="col-content" style="padding-left:3%; padding-right:3%">
 <style>
 .entry {
     text-align:left
 }
 </style>
-<h1>Glossary</h1>
 
-<h2>Agora-isms</h2>
+# Glossary
+
+## Agora-isms
 
 Things that are typical to Agora, though not necessarily legally codified.
 
 <h3 class="entry">-or</h3>
 
-Agora tends to name offices by taking a regular title and replacing -er with -or. For example: Rulekeepor, Webmastor, Treasuror.
+Agora tends to name offices by taking a regular title and replacing -er with -or. For example, Rulekeepor, Webmastor, and Spendor.
 
 <h3 class="entry">Proto</h3>
 
@@ -105,6 +103,3 @@ Short Logical Ruleset. Just the rules, with minimal annotation.
 <h3 class="entry">Writ of FAGE</h3>
 
 How the Registrar deregisters a player that has submitted a Cantus Cygneus. The name is a spoonerism/pun on "fit of rage".
-
-</div>
-</div>
