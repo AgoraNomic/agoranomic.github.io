@@ -30,7 +30,7 @@ fresh based on what players are interested in at the time.
 When a player wins, it’s recorded in the ever-growing Scroll of Agora
 and the game continues. Winning is usually tied to a “sub-game”, an
 activity played within Agora. In the past this has included variants of
-Diplomacy, Go, and Mao - as well as many games of our own design.
+Diplomacy, Go, and Mao&mdash;as well as many games of our own design.
 
 Crafty and mischievous players may enjoy the time-honored tradition of
 'scamming'. Since rules change frequently, loopholes often appear. Clever
