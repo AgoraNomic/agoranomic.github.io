@@ -1,6 +1,20 @@
-- text: Ruleset Homepage
-  url:  /ruleset/
-- text: Agora Nomic Homepage
-  url:  https://agoranomic.org
-- text: Source Code on Github
-  url:  https://github.com/AgoraNomic/ruleset
+---
+---
+- url: ""
+  label: Home
+- url: /join
+  label: Join
+- url: /play
+  label: Play
+- url: /ruleset/
+  label: Rules
+- url: /judgements
+  label: Judgements
+- url: /glossary
+  label: Glossary
+- url: /calendar
+  label: Calendar
+- url: /archives
+  label: Archives
+- url: /Herald/
+  label: Herald

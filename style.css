@@ -52,6 +52,7 @@ body {
 }
 
 /* Add a color to the active/current link */
+/* DEPRECIATED: Please update to use the new header found in officer-template. */
 .home .home,
 .glossary .glossary,
 .play .play,
@@ -60,6 +61,11 @@ body {
 .judgments .judgments,
 .archives .archives,
 .join .join {
+  background-color: #E52B50;
+  color: white;
+}
+
+.active {
   background-color: #E52B50;
   color: white;
 }
