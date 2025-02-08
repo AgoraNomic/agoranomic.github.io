@@ -18,11 +18,11 @@ The discussion forum is [Agora-Discussion](<http://www.agoranomic.org/cgi-bin/ma
 
 Because many emails might be sent in a single day, you should consider either making an email account just for Agora, or setting up filters to send all Agora messages to a folder. Your email provider will have instructions on how to do that. For example, [here are Gmail's filter instructions](<https://support.google.com/mail/answer/6579?hl=en>).
 
-Once you've subscribed to each mailing list, and confirmed your subscriptions in your email, you will start receving messages as they are sent. You will also now be able to send messages. Now it's time to register.
+Once you've subscribed to each mailing list, and confirmed your subscriptions in your email, you will start receiving messages as they are sent. You will also now be able to send messages. Now it's time to register.
 
 ### Registering
 
-Registering is a special action in Agora, to make it as easy as possible. A registration email need only indicate that you wish to join; you should also indicate what name you'd like to use. Names are changeable in Agora whenever you want. A straight-forward registration might say something like:
+Registering is a special action in Agora, to make it as easy as possible. A registration email need only indicate that you wish to join; you should also indicate what name you'd like to use&emdash;don't worry, you can change this later if you'd like. A straight-forward registration might say something like:
 
 ```
 I register for Agora. My name is nix.
@@ -32,9 +32,9 @@ I register for Agora. My name is nix.
 
 None of this is strictly necessary to playing Agora, but it will make your experience smoother.
 
-**Consider using an email client** like Thunderbird, Outlook, or Apple Mail. Web interfaces for email, like Gmail's, will often mess with plaintext formatting. Since Agora uses a lot of plaintext formatting (such as tables and charts made with spaces and tabs) preserving formatting is important. These email clients tend to do a better job at it.
+**Consider using an email client** like Thunderbird, Outlook, or Apple Mail. Web interfaces for email, like Gmail's, will often mess with plaintext formatting. Since Agora uses a lot of plain-text formatting (such as tables and charts made with spaces and tabs) preserving formatting is important. These email clients tend to do a better job at it.
 
-**Learn mailing list ettiquette.** When replying to a message, put your reply below/after the relevant quote from the original message. If you're replying to a long message, cut out the unnecessary bits. This makes your reply much more readable to other players. If you're using an email client as mentioned above, you can quote only the relevant part of the message by highlighting it before hitting reply.
+**Learn mailing list etiquette.** When replying to a message, put your reply below/after the relevant quote from the original message. If you're replying to a long message, cut out the unnecessary bits. This makes your reply much more readable to other players. If you're using an email client as mentioned above, you can quote only the relevant part of the message by highlighting it before hitting reply.
 
 **Double-check before you send.** Make sure you're sending to the right mailing list. Replies default to Agora-Discussion, but you can't take actions there; you will need to change it to Agora-Business if you're taking a game action. Also keep in mind that the mailing lists are meticulously archived; what you say there will always be there, and people may come across it again. Don't share anything you're not comfortable making public, and try to make sure you're saying the best version of what you want to say, not something you might regret or disapprove of later.
 
