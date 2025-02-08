@@ -42,7 +42,7 @@ and then quickly clean up the mess.
 ### A Historic Game
 
 At 31 years old, Agora is the longest running nomic. It has also
-seen around 200 players come and go, with an average of 15&endash;20 at
+seen around 200 players come and go, with an average of 15&ndash;20 at
 any given time. Some players have been playing for more than a decade.
 Agora has been around for a long time, and plans to stay.
 
