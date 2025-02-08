@@ -65,7 +65,7 @@ body {
   color: white;
 }
 
-.active {
+.nvbr a.active {
   background-color: #E52B50;
   color: white;
 }
