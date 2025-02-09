@@ -35,8 +35,7 @@ body {
 }
 
 /* Style the links inside the navigation bar */
-.nvbr a,
-.nvbar option {
+.nvbr a {
   float: left;
   color: #f2f2f2;
   text-align: center;
