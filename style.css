@@ -231,8 +231,7 @@ pre {
     display: none;
   }
 
-  .nvbr a,
-  .nvbar option {
+  .nvbr a {
     float: center;
     width: 100%;
     color: var(--header-text-primary);
