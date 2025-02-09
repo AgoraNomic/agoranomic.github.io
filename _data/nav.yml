@@ -14,5 +14,15 @@
   label: Calendar
 - url: /archives.html
   label: Archives
-- url: /Herald/
-  label: Herald
+- label: Offices
+  pages:
+    - url: /judgments.html
+      label: Arbitor
+    - url: /archives.html
+      label: Archivist
+    - url: /assessor/
+      label: Assessor
+    - url: /ruleset/
+      label: Rulekeepor
+    - url: /Webmastor/
+      label: Webmastor

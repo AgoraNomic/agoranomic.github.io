@@ -11,7 +11,11 @@
 
   --header-background-primary: #333;
   --header-text-primary: #f2f2f2;
+
+  --z-index-main-header: 100;
 }
+
+/* General Rules */
 
 body {
   width: 100%;
@@ -22,11 +26,77 @@ body {
   background-color: var(--background-primary);
 }
 
+
+/* Header and Navigational Elements */
+
+.top-navigation {
+  display: sticky;
+  width: 100%;
+  z-index: var(--z-index-main-header);
+}
+
+.top-navigation .main-nav {
+  margin-right: auto;
+  width: max-content;
+}
+
+ul.main-menu,
+ul.submenu {
+  align-items: center;
+  justify-content: space-around;
+  box-sizing: border-box;
+  list-style: none;
+  padding: 0;
+}
+
+ul.main-menu {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto 0 0;
+  width: 100%;
+}
+
+ul.submenu {
+  display: none;
+  flex-direction: row;
+  margin: 0;
+  width: max-content;
+}
+
+ul.main-menu li.menu-entry {
+  background-color: var(--header-background-primary);
+}
+
+ul.submenu li.menu-entry {
+  background-color: var(--header-background-primary);
+}
+
+ul.main-menu li.menu-entry>a,
+ul.main-menu li.menu-entry:not(:has(a)) {
+  padding: 14px 16px;
+  color: var(--header-text-primary);
+  text-align: center;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+ul.main-menu li.menu-entry:hover .submenu {
+  display: flex;
+}
+
+ul.main-menu li.menu-entry:has(>a.active, >a:hover) {
+  background-color: var(--background-accent);
+}
+
+/* Document */
+
+/* DEPRECIATED: Please update to use the new header found in officer-template. */
 .mobile,
 .dropdown-content {
   display: none;
 }
 
+/* DEPRECIATED: Please update to use the new header found in officer-template. */
 .dropdown .dropbtn {
   font-size: 20px;
   border: none;
@@ -37,6 +107,7 @@ body {
   background-color: inherit;
 }
 
+/* DEPRECIATED: Please update to use the new header found in officer-template. */
 .nvbr {
   width: 100%;
   position: fixed;
@@ -45,11 +116,13 @@ body {
   z-index: 998;
 }
 
+/* DEPRECIATED: Please update to use the new header found in officer-template. */
 .nvpad {
   padding: 3.5em;
 }
 
 /* Style the links inside the navigation bar */
+/* DEPRECIATED: Please update to use the new header found in officer-template. */
 .nvbr a {
   float: left;
   color: var(--header-text-primary);
@@ -60,6 +133,7 @@ body {
 }
 
 /* Change color of current page's link and any links on hover. */
+/* DEPRECIATED: Please switch to the new nav bar. */
 .nvbr a:hover,
 .nvbr a.active {
   background-color: var(--background-accent);
