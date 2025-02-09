@@ -45,8 +45,9 @@ body {
   font-size: 17px;
 }
 
-/* Change the color of links on hover */
-.nvbr a:hover {
+/* Change color of current page's link and any links on hover. */
+.nvbr a:hover,
+.nvbr a.active {
   background-color: #E52B50;
   color: white;
 }
@@ -61,11 +62,6 @@ body {
 .judgments .judgments,
 .archives .archives,
 .join .join {
-  background-color: #E52B50;
-  color: white;
-}
-
-.nvbr a.active {
   background-color: #E52B50;
   color: white;
 }
