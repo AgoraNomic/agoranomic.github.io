@@ -162,7 +162,6 @@ ul {
   width: 100%;
 }
 
-
 .button:hover {
   background-color: #E52B50;
   color: white;
@@ -220,6 +219,7 @@ pre {
   .content {
     width: 100%;
     max-width: 102ch;
+    padding-right: 0;
   }
 
   .mobile {
