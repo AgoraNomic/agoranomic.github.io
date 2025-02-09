@@ -3,6 +3,7 @@ title: Home
 layout: puremd
 ---
 
+<aside>
 <div class="rule101">
 <pre>
 Rule 101
@@ -12,10 +13,11 @@ Agora is a game of <a href="https://en.wikipedia.org/wiki/Nomic">Nomic</a>, wher
 with the Rules, communicate their game Actions and/or results of
 these actions via Fora in order to play the game. The game may be
 won, but the game never ends.
-      
+
 Please treat Agora Right Good Forever.
 </pre>
 </div>
+</aside>
 
 ## Welcome to Agora!
 
