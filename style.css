@@ -36,6 +36,7 @@ body {
 }
 
 .top-navigation .main-nav {
+  background-color: var(--header-background-primary);
   margin-right: auto;
   width: max-content;
 }
@@ -51,14 +52,14 @@ ul.submenu {
 
 ul.main-menu {
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   margin: 0 auto 0 0;
   width: 100%;
 }
 
 ul.submenu {
   display: none;
-  flex-direction: row;
+  flex-direction: column;
   margin: 0;
   width: max-content;
 }
@@ -71,8 +72,8 @@ ul.submenu li.menu-entry {
   background-color: var(--header-background-primary);
 }
 
-ul.main-menu li.menu-entry>a,
-ul.main-menu li.menu-entry:not(:has(a)) {
+ul.main-menu li.menu-entry,
+ul.main-menu li.menu-entry:not(:has(>a)) {
   padding: 14px 16px;
   color: var(--header-text-primary);
   text-align: center;
