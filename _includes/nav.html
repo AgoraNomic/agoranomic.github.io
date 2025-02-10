@@ -1,6 +1,7 @@
 <div class="container">
   <nav class="main-nav">
     <ul class="main-menu">
+      {%- for item in site.data.nav %}
       <li class="main-menu-entry-container">
         {%- if item.url -%}
         <a class="main-menu-entry {%- if item.url == page.url %} active{% endif %}" href="{{ item.url }}">{{ item.label
@@ -20,6 +21,7 @@
         </ul>
         {% endif %}
       </li>
+      {%- endfor %}
     </ul>
   </nav>
   <img class="coat-of-arms" src="https://agoranomic.org/coat_of_arms.png">
