@@ -1,7 +1,7 @@
 :root {
   --text-primary: #FFF;
   --text-secondary: #E52B50;
-  --text-accent: #B31837;
+  --text-tertiary: #B31837;
   --text-link: #0069C2;
   --text-visited: #551A8B;
 
@@ -16,8 +16,6 @@
   --gutter: 0;
 }
 
-/* General Rules */
-
 body {
   width: 100%;
   padding: 0;
@@ -28,7 +26,7 @@ body {
 }
 
 
-/* Header and Navigational Elements */
+/* SECTION: Header and Navigational Elements */
 
 /* The sticky <header>. */
 .top-navigation {
@@ -110,7 +108,80 @@ ul.main-menu .main-menu-entry-container {
   color: var(--header-text-primary);
 }
 
-/* Document */
+.coat-of-arms-container {
+  height: 0px;
+  width: fit-content;
+  overflow: visible;
+  order: 1;
+}
+
+.coat-of-arms {
+  height: 128px;
+  width: 128px;
+  z-index: var(--z-index-main-header);
+}
+
+/* SECTION: Main content style rules. */
+
+/* Wraps the .main-content and any nonspecific <aside> content. */
+.main-wrapper {
+  display: grid;
+  grid-template-columns: 72ch calc(10em + 30px);
+  margin: 2em auto 0;
+  max-width: 102ch;
+  position: relative;
+  width: 100%;
+}
+
+/* The main content of the page. Probably a <main> element. */
+.main-content {
+  margin: auto;
+}
+
+.main-content p,
+.main-content ul {
+  max-width: 72ch;
+  margin: auto;
+  margin-bottom: 1em;
+}
+
+.main-content h1 {
+  margin: 0%;
+  margin-bottom: 1em;
+}
+
+.main-content :is(h1, h2, h3, h4) {
+  color: var(--text-secondary);
+  text-align: center;
+}
+
+.main-wrapper>.chats {
+  background-color: var(--background-secondary);
+  box-sizing: border-box;
+  height: 100%;
+  padding: 30px;
+  width: 100%;
+}
+
+.main-wrapper>.chats>h3 {
+  color: var(--text-secondary);
+  text-align: center;
+}
+
+/* SECTION: Limited-application rules. */
+
+.rule101 {
+  font-size: 16px;
+  color: var(--text-tertiary);
+  margin: 0 auto;
+}
+
+.rule101 pre {
+  background: none;
+  text-align: center;
+}
+
+/* SECTION: Depreciated rules. */
 
 /* DEPRECIATED: Please update to use the new header found in officer-template. */
 .mobile,
@@ -176,31 +247,14 @@ ul.main-menu .main-menu-entry-container {
   color: var(--header-text-primary);
 }
 
-.coat-of-arms {
-  height: 128px;
-  position: fixed;
-  right: 0%;
-  top: 0%;
-  width: 128px;
-  z-index: 9999;
-}
 
-.rule101 {
-  font-size: 16px;
-  color: var(--text-accent);
-  margin: 0 auto;
-}
-
-.rule101 pre {
-  background: none;
-  text-align: center;
-}
-
+/* DEPRECIATED: These rules will be moved once .main-content is integrated. */
 h1 {
   margin: 0%;
   margin-bottom: 1em;
 }
 
+/* DEPRECIATED: These rules will be moved once .main-content is integrated. */
 h1,
 h2,
 h3,
@@ -209,6 +263,7 @@ h4 {
   text-align: center;
 }
 
+/* DEPRECIATED: Please update to use the new content classes found in officer-template. */
 .container:not(:has(>.main-nav)) {
   position: relative;
   width: 100%;
@@ -216,11 +271,13 @@ h4 {
   margin: auto;
 }
 
+/* DEPRECIATED: Please update to use the new content classes found in officer-template. */
 .content {
   margin: auto;
   padding-right: 14em;
 }
 
+/* DEPRECIATED: Please update to use the new content classes found in officer-template. */
 p,
 ul:not(.main-menu, .submenu) {
   max-width: 72ch;
@@ -228,7 +285,8 @@ ul:not(.main-menu, .submenu) {
   margin-bottom: 1em;
 }
 
-.chats {
+/* DEPRECIATED: Please update to use the new content classes found in officer-template. */
+*:not(.main-wrapper)>.chats {
   width: 10em;
   height: 100%;
   padding: 30px;
