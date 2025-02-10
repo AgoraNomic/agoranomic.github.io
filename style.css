@@ -25,6 +25,11 @@ body {
   background-color: var(--background-primary);
 }
 
+*,
+::before,
+::after {
+  box-sizing: border-box;
+}
 
 /* SECTION: Header and Navigational Elements */
 
@@ -53,7 +58,6 @@ body {
 
 ul.main-menu {
   align-items: center;
-  box-sizing: border-box;
   display: flex;
   justify-content: space-around;
   list-style: none;
@@ -63,7 +67,6 @@ ul.main-menu {
 }
 
 ul.main-menu .main-menu-entry-container {
-  box-sizing: border-box;
   flex-shrink: 0;
   position: relative;
 }
@@ -79,7 +82,7 @@ ul.main-menu .main-menu-entry-container {
   background-color: var(--header-background-primary);
   display: none;
   list-style: none;
-  padding: .5rem;
+  padding: 0 .5rem 0.5rem;
   position: absolute;
   top: 100%;
   width: max-content;
@@ -98,8 +101,9 @@ ul.main-menu .main-menu-entry-container {
 .submenu li>a {
   align-items: center;
   color: var(--header-text-primary);
-  height: 100%;
-  padding: 0.75rem;
+  display: inline-block;
+  padding: 0.15rem;
+  text-decoration: none;
   width: 100%;
 }
 
@@ -174,7 +178,6 @@ ul.main-menu .main-menu-entry-container {
 
 .chats {
   background-color: var(--background-secondary);
-  box-sizing: border-box;
   height: auto;
   margin: 0;
   padding: 30px;
