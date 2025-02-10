@@ -157,20 +157,6 @@ ul.main-menu .main-menu-entry-container {
   text-align: center;
 }
 
-.chats {
-  background-color: var(--background-secondary);
-  box-sizing: border-box;
-  height: auto;
-  margin: 0;
-  padding: 30px;
-  width: 100%;
-}
-
-.chats>h3 {
-  color: var(--text-secondary);
-  text-align: center;
-}
-
 /* SECTION: Limited-application rules. */
 
 .rule101 {
@@ -184,9 +170,24 @@ ul.main-menu .main-menu-entry-container {
   text-align: center;
 }
 
-/* Buttons for discord and matrix and irc */
+/* SECTION: Chat widget */
 
-.button {
+.chats {
+  background-color: var(--background-secondary);
+  box-sizing: border-box;
+  height: auto;
+  margin: 0;
+  padding: 30px;
+  width: 100%;
+}
+
+.chats>h3 {
+  color: var(--text-secondary);
+  margin: 0;
+  text-align: center;
+}
+
+.chat .button {
   border-color: var(--background-accent);
   border-radius: 10px;
   background-color: var(--background-accent);
@@ -200,7 +201,7 @@ ul.main-menu .main-menu-entry-container {
   width: 100%;
 }
 
-.button:hover {
+.chat .button:hover {
   background-color: var(--background-accent);
   color: var(--header-text-primary);
 }
