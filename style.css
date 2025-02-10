@@ -179,7 +179,7 @@ ul.main-menu .main-menu-entry-container {
 }
 
 .rule101 pre {
-  background: none;
+  background: none !important;
   text-align: center;
 }
 
