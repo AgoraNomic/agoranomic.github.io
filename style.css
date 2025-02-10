@@ -127,6 +127,7 @@ ul.main-menu .main-menu-entry-container {
 .main-wrapper {
   display: grid;
   grid-template-columns: 72ch calc(10em + 30px);
+  justify-content: center;
   margin: 2em auto 0;
   max-width: 102ch;
   position: relative;
@@ -155,15 +156,16 @@ ul.main-menu .main-menu-entry-container {
   text-align: center;
 }
 
-.main-wrapper>.chats {
+.chats {
   background-color: var(--background-secondary);
   box-sizing: border-box;
-  height: 100%;
+  height: auto;
+  margin: 0;
   padding: 30px;
   width: 100%;
 }
 
-.main-wrapper>.chats>h3 {
+.chats>h3 {
   color: var(--text-secondary);
   text-align: center;
 }
