@@ -33,8 +33,7 @@ body {
 /* The sticky <header>. */
 .top-navigation {
   background-color: var(--header-background-primary);
-  display: sticky;
-  position: relative;
+  position: sticky;
   top: -1px;
   width: 100%;
   z-index: var(--z-index-main-header);
@@ -74,7 +73,7 @@ ul.main-menu .main-menu-entry-container {
 .main-menu-entry-container .main-menu-entry {
   color: var(--header-text-primary);
   display: inline-flex;
-  padding: .5rem;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
@@ -84,7 +83,7 @@ ul.main-menu .main-menu-entry-container {
   list-style: none;
   padding: .5rem;
   position: absolute;
-  top: calc(100% + 4px);
+  top: 100%;
   width: max-content;
   z-index: var(--z-index-main-header);
 }
@@ -179,10 +178,11 @@ ul.main-menu .main-menu-entry-container {
 
 .coat-of-arms {
   height: 128px;
-  width: 128px;
-  z-index: 9999;
   position: fixed;
   right: 0%;
+  top: 0%;
+  width: 128px;
+  z-index: 9999;
 }
 
 .rule101 {
@@ -209,7 +209,7 @@ h4 {
   text-align: center;
 }
 
-.container {
+.container:not(:has(>.main-nav)) {
   position: relative;
   width: 100%;
   max-width: 102ch;
