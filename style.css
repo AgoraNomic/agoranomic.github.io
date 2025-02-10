@@ -126,6 +126,7 @@ ul.main-menu .main-menu-entry-container {
 /* Wraps the .main-content and any nonspecific <aside> content. */
 .main-wrapper {
   display: grid;
+  gap: 2em;
   grid-template-columns: 72ch calc(10em + 30px);
   justify-content: center;
   margin: 2em auto 0;
