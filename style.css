@@ -190,7 +190,7 @@ ul.main-menu .main-menu-entry-container {
   text-align: center;
 }
 
-.chat .button {
+.chats .button {
   border-color: var(--background-accent);
   border-radius: 10px;
   background-color: var(--background-accent);
@@ -204,7 +204,7 @@ ul.main-menu .main-menu-entry-container {
   width: 100%;
 }
 
-.chat .button:hover {
+.chats .button:hover {
   background-color: var(--background-accent);
   color: var(--header-text-primary);
 }
