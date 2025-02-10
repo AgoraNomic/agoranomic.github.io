@@ -181,121 +181,6 @@ ul.main-menu .main-menu-entry-container {
   text-align: center;
 }
 
-/* SECTION: Depreciated rules. */
-
-/* DEPRECIATED: Please update to use the new header found in officer-template. */
-.mobile,
-.dropdown-content {
-  display: none;
-}
-
-/* DEPRECIATED: Please update to use the new header found in officer-template. */
-.dropdown .dropbtn {
-  font-size: 20px;
-  border: none;
-  outline: none;
-  color: var(--header-text-primary);
-  padding: 14px 16px;
-  margin: 0;
-  background-color: inherit;
-}
-
-/* DEPRECIATED: Please update to use the new header found in officer-template. */
-.nvbr {
-  width: 100%;
-  position: fixed;
-  background-color: var(--header-background-primary);
-  overflow: hidden;
-  z-index: 998;
-}
-
-/* DEPRECIATED: Please update to use the new header found in officer-template. */
-.nvpad {
-  padding: 3.5em;
-}
-
-/* Style the links inside the navigation bar */
-/* DEPRECIATED: Please update to use the new header found in officer-template. */
-.nvbr a {
-  float: left;
-  color: var(--header-text-primary);
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-  font-size: 17px;
-}
-
-/* Change color of current page's link and any links on hover. */
-/* DEPRECIATED: Please switch to the new nav bar. */
-.nvbr a:hover,
-.nvbr a.active {
-  background-color: var(--background-accent);
-  color: var(--header-text-primary);
-}
-
-/* Add a color to the active/current link */
-/* DEPRECIATED: Please update to use the new header found in officer-template. */
-.home .home,
-.glossary .glossary,
-.play .play,
-.calendar .calendar,
-.rules .rules,
-.judgments .judgments,
-.archives .archives,
-.join .join {
-  background-color: var(--background-accent);
-  color: var(--header-text-primary);
-}
-
-
-/* DEPRECIATED: These rules will be moved once .main-content is integrated. */
-h1 {
-  margin: 0%;
-  margin-bottom: 1em;
-}
-
-/* DEPRECIATED: These rules will be moved once .main-content is integrated. */
-h1,
-h2,
-h3,
-h4 {
-  color: var(--text-secondary);
-  text-align: center;
-}
-
-/* DEPRECIATED: Please update to use the new content classes found in officer-template. */
-.container:not(:has(>.main-nav)) {
-  position: relative;
-  width: 100%;
-  max-width: 102ch;
-  margin: auto;
-}
-
-/* DEPRECIATED: Please update to use the new content classes found in officer-template. */
-.content {
-  margin: auto;
-  padding-right: 14em;
-}
-
-/* DEPRECIATED: Please update to use the new content classes found in officer-template. */
-p,
-ul:not(.main-menu, .submenu) {
-  max-width: 72ch;
-  margin: auto;
-  margin-bottom: 1em;
-}
-
-/* DEPRECIATED: Please update to use the new content classes found in officer-template. */
-*:not(.main-wrapper)>.chats {
-  width: 10em;
-  height: 100%;
-  padding: 30px;
-  position: absolute;
-  right: 0;
-  top: 0;
-  background-color: var(--background-secondary);
-}
-
 /* Buttons for discord and matrix and irc */
 
 .button {
@@ -319,28 +204,23 @@ ul:not(.main-menu, .submenu) {
 
 /* Written for the herald's pages, fix if it breaks some other table */
 
-table,
-td,
-th {
+.main-content table,
+.main-content td,
+.main-content th {
   border: 0px solid;
 }
 
-.ttitle {
-  color: var(--text-secondary);
-  font-weight: bold;
-}
-
-table {
+.main-content table {
   margin: auto;
 }
 
-table tr {
+.main-content table tr {
   background-color: var(--background-secondary);
   height: 3vh;
 }
 
-blockquote,
-pre {
+.main-content blockquote,
+.main-content pre {
   max-width: 66ch;
   padding-left: 1ch;
   padding-right: 1ch;
