@@ -39,7 +39,7 @@ body {
 
 /* Organizational alignment container. */
 .top-navigation .container {
-  align-items: center;
+  align-items: flex-start;
   display: flex;
   flex-flow: row wrap;
   gap: var(--gutter);
@@ -52,7 +52,7 @@ body {
 }
 
 ul.main-menu {
-  align-items: flex-start;
+  align-items: center;
   box-sizing: border-box;
   display: flex;
   justify-content: space-around;
