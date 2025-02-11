@@ -238,47 +238,17 @@ ul.main-menu .main-menu-entry-container {
 /* Adjust elements to small screens */
 @media screen and (max-width:73em) {
   .chats {
-    position: relative;
     width: 100%;
     text-align: center;
-    padding: 0;
   }
 
-  .button {
+  .main-wrapper {
+    grid-template-columns: 90%;
+  }
+
+  .chats .button {
     width: 45%;
     font-size: 20px;
-  }
-
-  .dropdown:hover .dropdown-content {
-    display: block;
-  }
-
-  .content {
-    width: 100%;
-    max-width: 102ch;
-    padding-right: 0;
-  }
-
-  .mobile {
-    display: inline-block;
-  }
-
-  .desktop {
-    display: none;
-  }
-
-  .nvbr a {
-    float: center;
-    width: 100%;
-    color: var(--header-text-primary);
-    text-align: center;
-    text-decoration: none;
-    font-size: 20px;
-    padding: 14px 0px;
-  }
-
-  .nvpad {
-    padding-top: 6vh;
   }
 
   .rule101 {
@@ -286,7 +256,7 @@ ul.main-menu .main-menu-entry-container {
     margin-right: 1%;
     padding-top: 1%;
     padding-bottom: 1%;
-    font-size: 0.8em;
+    font-size: 15px;
     overflow: scroll;
   }
 
