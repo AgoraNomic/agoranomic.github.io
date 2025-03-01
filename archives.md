@@ -45,7 +45,7 @@ The below archives are historical. They are not maintained, and may not even exi
 - [Zefram's archives](<https://www.fysh.org/~zefram/agora/>) contain old rules, proposals, and mailing list archives.
 - [The archives of the Tue mailing list, an older backup list that is no longer used.](<https://listserver.tue.nl/pipermail/agora/>)
 - The [Agoran Weekly Journal](<https://zenith.homelinux.net/awj.php>) summarizes events from 1997 to 2007, and may be updated in the future.
-- Murphy's site also contains a [list of acronyms](<https://johnpeters.us.to/agora_acronyms.php>) used in Agora and a [list of wins](<https://johnpeters.us.to/agora_winners.php>).
+- Murphy's site also contains a [list of acronyms](<johnpeters.us.to/agora_acronyms.php>) used in Agora and a [list of wins](<johnpeters.us.to/agora_winners.php>).
 - Andre has a [list of old CFJs](<https://web.archive.org/web/20130115221259/http://www.win.tue.nl/~engels/stare.txt>).
 - [omd's CFJ database](<https://web.archive.org/web/20150910134931/http://cfj.qoid.us/>) displays more recent CFJs and their results.
 - The [Agora Notary Wiki](<https://agora-notary.wikidot.com/>) hosted details about contracts from late 2008 to early 2010 (and became obsolete when contracts were repealed).
