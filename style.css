@@ -142,6 +142,7 @@ ul.main-menu .main-menu-entry-container {
 /* The main content of the page. Probably a <main> element. */
 .main-content {
   margin: auto;
+  width: 100%;
 }
 
 .main-content p,
